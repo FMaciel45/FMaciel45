@@ -4,7 +4,7 @@
 
 - 📚 Sou estudante de Ciência da Computação, com formatura prevista para Junho de 2026.
 - 👨‍💻 Tenho cerca de 1 ano de experiência na programação, com projetos pessoais e acadêmicos.
--  :earth_americas: Falo Inglês fluentemente e tenho diploma de Inglês avançado pela Casa Thomas Jefferson (Brasília/DF).
+-  :earth_americas: Falo Inglês fluentemente e tenho diploma de nível avançado pela Casa Thomas Jefferson (Brasília/DF).
 
 ### Tecnologias que uso
 
