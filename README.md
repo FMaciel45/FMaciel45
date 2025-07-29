@@ -3,7 +3,7 @@
 ### 💻 Sobre mim 
 
 - 📚 Sou um desenvolvedor fullstack e estudante de Ciência da Computação, com formatura prevista para Junho de 2026.
-- 👨‍💻 Tenho cerca de 1 ano de experiência na programação, com projetos pessoais e acadêmicos.
+- 👨‍💻 Tenho cerca de 1 ano de experiência como programador.
 -  :earth_americas: Falo Inglês fluentemente e tenho diploma de nível avançado pela Casa Thomas Jefferson (Brasília/DF).
 
 ### Tecnologias que trabalho atualmente
