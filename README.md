@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there :wave:
 
 ### :raising_hand_man: Sobre mim 
 
