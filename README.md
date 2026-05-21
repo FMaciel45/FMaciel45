@@ -6,7 +6,7 @@
 - :computer: Tenho cerca de 1 ano de experiência como programador.
 - :earth_americas: Falo Inglês fluentemente e tenho diploma de nível avançado pela Casa Thomas Jefferson (Brasília/DF).
 
-### Tecnologias que trabalho atualmente
+### Tecnologias com as quais trabalho atualmente
 [![My Skills](https://skillicons.dev/icons?i=dotnet,flutter,cs,dart,postgresql,git)](https://skillicons.dev)
 
 ### Outras tecnologias que domino
