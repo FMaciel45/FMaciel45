@@ -7,10 +7,10 @@
 - :earth_americas: Falo Inglês fluentemente e tenho diploma de nível avançado pela Casa Thomas Jefferson (Brasília/DF).
 
 ### Tecnologias com as quais trabalho atualmente
-[![My Skills](https://skillicons.dev/icons?i=dotnet,flutter,cs,dart,postgresql,git)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=dotnet,flutter,angular,cs,dart,ts,postgresql,git)](https://skillicons.dev)
 
 ### Outras tecnologias que domino
-[![My Skills](https://skillicons.dev/icons?i=nodejs,react,ts,mysql,sqlite)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=nodejs,react,mysql,sqlite)](https://skillicons.dev)
 
 ### :earth_americas: Vamos nos conectar!
 
