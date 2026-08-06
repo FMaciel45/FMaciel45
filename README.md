@@ -2,8 +2,8 @@
 
 ### :raising_hand_man: Sobre mim 
 
-- :books: Sou um desenvolvedor fullstack e estudante de Ciência da Computação, com formatura prevista para Julho de 2026.
-- :computer: Tenho cerca de 1 ano de experiência como programador.
+- :books: Sou um desenvolvedor fullstack e formado em Ciência da Computação.
+- :computer: Tenho cerca de 1 ano de experiência profissional como programador.
 - :earth_americas: Falo Inglês fluentemente e tenho diploma de nível avançado pela Casa Thomas Jefferson (Brasília/DF).
 
 ### Tecnologias com as quais trabalho atualmente
